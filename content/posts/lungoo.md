@@ -6,6 +6,6 @@ authorTwitter = "" #do not include @
 cover = ""
 tags = []
 keywords = ["", ""]
-description = "lorem ipsum"
+description = "This is a test for lungoo.de"
 showFullContent = false
 +++
