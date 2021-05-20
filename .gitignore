@@ -1,4 +1,4 @@
-# ifnore all logs
+# ignore all logs
 *.log
 .env
 *.sh
